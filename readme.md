@@ -4,7 +4,7 @@
 Welcome to the Mini TV Workshop!
 
 The PCB folder contains the electronics used for this project, 
-with the Program file containing what you will need to finish for this workshop. 
+with the Program file containing what you will need to finish for this workshop. Follow the steps 1 by 1 and you will get to the final product with all the functions!
 
 Good luck and have fun!
 
